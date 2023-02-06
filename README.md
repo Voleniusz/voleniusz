@@ -3,8 +3,8 @@ Początkujący programista szukający dobrego kierunku w branży IT.
 
 Skills: PYTHON / POSTGRESQL /   HTML / JAVA SCRIPT
 
-- 🔭 I’m currently working on różnymi projektami utrwalającymi zdobytą wiedzę. 
-- 🌱 I’m currently learning HTLM / POSTGRE SQL 
+- 🔭 Aktualnie pracuje nad różnymi projektami utrwalającymi zdobytą wiedzę. 
+- 🌱 Aktualnie uczę się HTLM / POSTGRE SQL 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Voleniusz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dawid.hulboj.96)  
